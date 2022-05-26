@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mundo web</title>
+    <link rel="stylesheet" href="estilos/style.css">
+</head>
+
+<body>
+    <header class="header">
+        <div class="content_logo">
+            <img src="img/logo.png" alt="">
+        </div>
+
+        <div class="menu_list">
+            <li>inicio</li>
+            <li>nosotros</li>
+            <li>servicios</li>
+            <li>blog</li>
+            <li>contacto</li>
+        </div>
+    </header>
+
+    <section id="hero">
+        <div class="imagen-fondo">
+            <div class="transparencia">
+                <div class="titulo-1">
+                    <h5>Lorem ipsum dolor sit amet</h5>
+                </div>
+
+                <div class="titulo-2">
+                    <h1>BIENVENIDO</h1>
+                </div>
+
+                <div class="boton">
+                    <a href="#">Ver mas</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="bienvenida">
+        <div class="contenedor_bienvenida">
+            <div class="contenedor_bienvenida_elementos">
+                <h4>BIENVENIDOS A MI SITIO WEB</h4>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut, nam. Quia libero, error distinctio
+                    tempore odio quaerat voluptatibus labore deleniti repellat numquam quos, nostrum, unde fugiat
+                    tenetur illo inventore harum.</p>
+            </div>
+        </div>
+    </section>
+
+
+    <section id="informacion">
+        <div class="contenedor_general-informacion">
+            <div class="contenedor_informacion">
+                <div class="info-detalles">
+                    <img src="img/foto-equipo.jpg" alt="">
+                </div>
+
+                <div class="info-detalles">
+                    <h4>CONOCENOS</h4>
+                    <h3>NOSOTROS</h3>
+                    <h5>Somos un equipo dispuesto a para ayudarte</h5>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem consequatur maxime quis ipsam.
+                        Voluptas alias sunt, deleniti harum accusamus eaque minima ut error eius tempore pariatur
+                        molestias impedit? Velit, dicta.</p>
+                    <a href="#">Ver mas</a>
+                </div>
+            </div>
+        </div>
+    </section>
+</body>
+
+
+</html>
